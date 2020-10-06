@@ -16,5 +16,6 @@
 
 <ProgressBar/>
 
-<button class="start">Start</button>
-
+<div bp="grid">
+    <button class="start" bp="offset-5@md 4@md 12@sm">Start</button>
+</div>
